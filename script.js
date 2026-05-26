@@ -61,7 +61,7 @@ const playerDataBase= {
         {player: 'Lucas Paqueta', img: 'hard-lucas paqueta.jpg'},
         {player: 'Mario Balotelli', img: 'hard-mario balotelli.jpg'},
         {player: 'Michael Owen', img: 'hard-michael owen.jpg'},
-        {player: 'Roberto Bageo', img: 'hard-robert bageo.jpg'},
+        {player: 'Roberto Bageo', img: 'hard-roberto bageo.jpg'},
         {player: 'Sabastien Haller', img: 'hard-sebastien haller.jpg'},
         {player: 'Thiag Alcantara', img: 'hard-thiago alcantara.jpeg'},
         {player: 'Thiago Silva', img: 'hard-thiago silva.jpg'}
